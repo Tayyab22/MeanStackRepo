@@ -1,0 +1,23 @@
+{
+  "name": "meanstackrepo",
+  "version": "1.0.0",
+  "description": "Mean stack with angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tayyab22/MeanStackRepo.git"
+  },
+  "author": "Tom Chaudhry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tayyab22/MeanStackRepo/issues"
+  },
+  "homepage": "https://github.com/Tayyab22/MeanStackRepo#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.7"
+  }
+}
